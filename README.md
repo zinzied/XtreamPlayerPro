@@ -1,8 +1,5 @@
 # Xtream Player Pro
 
-![Capture](https://github.com/user-attachments/assets/21366a8c-985c-4780-9140-64beec124110)
-
-
 ## Overview
 Xtream Player Pro is a dedicated media player application designed for streaming content from Xtream API services. This application provides a user-friendly interface for accessing and enjoying your IPTV content.
 
@@ -33,9 +30,11 @@ Upon first launch, you'll need to enter your Xtream API credentials:
 - Internet connection
 
 ## Screenshots
-![Main Interface](screenshots/main-interface.png)
-![Channel List](screenshots/channel-list.png)
-![Settings Menu](screenshots/settings-menu.png)
+- Main Interface: ![Capture](https://github.com/user-attachments/assets/21366a8c-985c-4780-9140-64beec124110)
+- 
+- Channel List: ![image](https://github.com/user-attachments/assets/8fb28292-cc3b-40d0-976d-94f1d6c4db09)
+
+
 
 ## Support
 For support, please open an issue on our [GitHub Issues](https://github.com/zinzied/xtream_player_pro/issues) page or contact us at zinzied@gmail.com.
