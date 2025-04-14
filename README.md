@@ -10,7 +10,7 @@ Xtream Player Pro is a dedicated media player application designed for streaming
 - User-friendly interface
 - Credential management
 - Customizable playback settings
-
+- Search and download Subtitles (Need API from [opensubtitles.com](https://www.opensubtitles.com))
 ## Installation
 1. Download the latest release from the [Releases](https://github.com/zinzied/XtreamPlayerPro/releases) page
 2. Extract the ZIP file to your preferred location
