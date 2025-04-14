@@ -1,6 +1,6 @@
 # Xtream Player Pro
 
-![Capture](https://github.com/user-attachments/assets/1b9f519e-c992-4898-a081-be79176737b1)
+![Capture](https://github.com/user-attachments/assets/21366a8c-985c-4780-9140-64beec124110)
 
 
 ## Overview
