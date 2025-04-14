@@ -22,6 +22,15 @@ Upon first launch, you'll need to enter your Xtream API credentials:
 2. Enter your server URL, username, and password
 3. Click "Save" to store your credentials
 
+To enable subtitle search and download functionality:
+1. Register for an API key at [OpenSubtitles.com](https://www.opensubtitles.com)
+2. Locate the `config.ini` file in the application directory
+3. Add your OpenSubtitles API key in the following format:
+   [OpenSubtitles]
+   ApiKey=your_api_key_here
+4. Save the file and restart the application
+
+
 ## System Requirements
 - Windows 7/8/10/11
 - .NET Framework 4.5 or higher
